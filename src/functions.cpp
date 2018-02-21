@@ -5,7 +5,7 @@
 
 /**
  * Determines whether or not a string has a balanced
- * number of brackets, parenthases, and braces.
+ * number of brackets, parentheses, and braces.
  * @param input string to check symbols of
  * @return true if symbols are balanced
  */
