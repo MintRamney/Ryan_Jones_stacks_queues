@@ -1,5 +1,5 @@
 # Stacks and Queues
-GVSU CIS 263 with Ira Woodring
+GVSU CIS 263 with Ira Woodring. Uses project template per @irawoodring
 
 ## Assignment description
 
